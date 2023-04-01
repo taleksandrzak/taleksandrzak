@@ -1,4 +1,4 @@
 ## Hi there 👋
-I’m currently learning Node.js 😄
+I’m currently learning how to code by Udemay courses. In 2024 I will be a web developer.
 ***
-![Node](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+
